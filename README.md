@@ -14,7 +14,7 @@
 
 ## 🚀 Project Overview
 
-**MedixInfo** is a cloud-native **Health Information Management System (HIMS)** that enables healthcare facilities to efficiently manage patient records, clinical workflows, authentication, and secure data exchange.
+**MedixInfo** is a cloud-native **Health Information Management System (HIMS)** that enables healthcare facilities to efficiently manage patient records, clinical workflows, authentication, and secure data exchange. Designed to modernize how hospitals, doctors, and patients manage medical information and appointments. The platform serves as a "digital health ecosystem" where all healthcare stakeholders can securely connect, share information, and coordinate care.
 
 This README is intentionally public while the application source code remains in a private repository. The live system is reachable at: **https://medixinfo.org**
 
